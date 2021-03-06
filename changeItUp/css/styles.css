@@ -1,0 +1,56 @@
+body {
+font-family: "Open sans", sans-serif;
+}
+
+h1, h2, h3 {
+font-family: "Lobster", cursive;
+}
+h2 {
+    color: #4f6d7a;
+}
+
+header h2 {
+    color: #e8dab2;
+}
+
+.site-footer {
+    background-color: #e8dab2;
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: #4f6d7a;
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #dd6e42;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #4f6d7a;
+}
+
+.table-primary {
+    background-color: #a3b18a;
+}
+
+.tablehead {
+    background-color: #588157;
+}
+
+h3.card-header {
+    background-color: #4f6d7a;
+}
